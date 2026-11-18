@@ -40,8 +40,6 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-
-
 <h1 align="left">GitHub Stats</h1>
 
 <table>
