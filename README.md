@@ -58,10 +58,10 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=arghya-dev-007-hue&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=arghya-dev-007&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghya-dev-007-hue&theme=tokyonight" alt="GitHub Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghya-dev-007&theme=tokyonight" alt="GitHub Profile Details" />
     </td>
   </tr>
 </table>
