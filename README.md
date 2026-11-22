@@ -42,7 +42,9 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
-
+<p align="center">
+  <img src="./koi.gif" alt="My Git Koi" />
+</p>
 
 <h1 align="left">GitHub Stats</h1>
 
