@@ -49,19 +49,19 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=arghya-dev-007&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arghyabera007-hue&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arghya-dev-007&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=arghyabera007-hue&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=arghya-dev-007-hue&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghyabera007-hue&theme=tokyonight" alt="GitHub Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghya-dev-007-hue&theme=tokyonight" alt="GitHub Profile Details" />
     </td>
   </tr>
 </table>
