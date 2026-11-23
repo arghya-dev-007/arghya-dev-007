@@ -59,6 +59,16 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
   <img src="./koi.gif" alt="My Git Koi" />
 </p>
 
+<h2 align="left">My GitHub Space Shooter</h2>
+
+<p align="center">
+  <img
+    src="./assets/space-shooter.gif"
+    alt="GitHub Contribution Space Shooter"
+    width="100%"
+  />
+</p>
+
 <h1 align="left">GitHub Stats</h1>
 
 <table>
