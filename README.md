@@ -69,6 +69,16 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
   />
 </p>
 
+<h2 align="left">🌌 My GitHub Repo Galaxy</h2>
+
+<p align="center">
+  <img
+    src="./assets/repo-galaxy.gif"
+    alt="Animated GitHub Repository Galaxy — @arghya-dev-007"
+    width="100%"
+  />
+</p>
+
 <h1 align="left">GitHub Stats</h1>
 
 <table>
