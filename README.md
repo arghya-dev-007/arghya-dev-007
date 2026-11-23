@@ -1,4 +1,4 @@
-<h2 align="left">My Developer Workspace</h2>
+<h2 align="left"></h2>
 
 <p align="center">
   <img
