@@ -69,7 +69,7 @@ I'm a passionate full-stack developer, currently pursuing my college degree in c
   />
 </p>
 
-<h2 align="left">🌌 My GitHub Repo Galaxy</h2>
+<h2 align="left"> Repo Galaxy</h2>
 
 <p align="center">
   <img
